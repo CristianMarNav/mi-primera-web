@@ -1,0 +1,19 @@
+body {
+    background-color: #f0f0f0; /* Color de fondo suave */
+    font-family: Arial, sans-serif; /* Letra moderna */
+    text-align: center; /* Centrar todo el contenido */
+    padding: 30px; /* Separación del contenido con los bordes */
+  }
+  
+  h1 {
+    color: #333333; /* Color del título */
+  }
+  
+  p {
+    color: #555555; /* Color del texto */
+  }
+  
+  img {
+    margin-top: 20px; /* Separación de la imagen respecto al título */
+  }
+  
